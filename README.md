@@ -83,6 +83,7 @@ Through this project, I practiced:
 The completed User Persona and Empathy Map are included as a visual project deliverable.
 
 👤 Author
+
 Ogunbayo John
 
 UI/UX Design
